@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Priyanka Gadekar",
+      "address": "Pune"
+    },
+    {
+      "id": 2,
+      "name": "Vaishnavi Gadekar",
+      "address": "Sakur"
+    },
+    {
+      "id": 3,
+      "name": "Subhangi Landge",
+      "address": "Pune"
+    },
+    {
+      "id": 4,
+      "name": "Shivani Varpe",
+      "address": "Kanoli"
+    },
+    {
+      "id": 5,
+      "name": "Ashvini Varpe",
+      "address": "Ozer"
+    }
+
+  ]
+}
